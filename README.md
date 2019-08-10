@@ -23,7 +23,7 @@ Flutter上的相对布局RelativeLayout
 
 ### 1、相对关系：`toLeftOf`,`toRightOf`,`above`,`below`
 
-<img src="https://github.com/CCY0122/flutter_relative_layout/blob/master/pic/WechatIMG51.png" width=300/>
+<img src="https://github.com/CCY0122/flutter_relative_layout/blob/master/pic/WechatIMG51.png?raw=true" width=300/>
 
 ```dart
 RelativeLayout(
@@ -53,7 +53,7 @@ RelativeLayout(
 ```
 组合使用:
 
-<img src="https://github.com/CCY0122/flutter_relative_layout/blob/master/pic/WechatIMG52.png" width=300/>
+<img src="https://github.com/CCY0122/flutter_relative_layout/blob/master/pic/WechatIMG52.png?raw=true" width=300/>
 
 ```dart
  RelativeLayout(
@@ -81,7 +81,7 @@ RelativeLayout(
 
 ### 2、轴对齐关系：`alignLeft`,`alignRight`,`alignTop`,`alignBottom`
 
-<img src="https://github.com/CCY0122/flutter_relative_layout/blob/master/pic/WechatIMG53.png" width=300/>
+<img src="https://github.com/CCY0122/flutter_relative_layout/blob/master/pic/WechatIMG53.png?raw=true" width=300/>
 
 ```dart
  RelativeLayout(
@@ -112,7 +112,7 @@ RelativeLayout(
 
 组合使用:
 
-<img src="https://github.com/CCY0122/flutter_relative_layout/blob/master/pic/WechatIMG55.png" width=300/>
+<img src="https://github.com/CCY0122/flutter_relative_layout/blob/master/pic/WechatIMG55.png?raw=true" width=300/>
 
 ```dart
  RelativeLayout(
@@ -139,7 +139,7 @@ RelativeLayout(
 ```
 ### 3、溢出模式
 
-<img src="https://github.com/CCY0122/flutter_relative_layout/blob/master/pic/WechatIMG54.png" width=300/>
+<img src="https://github.com/CCY0122/flutter_relative_layout/blob/master/pic/WechatIMG54.png?raw=true" width=300/>
 
 ```dart
  RelativeLayout(
