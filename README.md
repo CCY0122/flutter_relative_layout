@@ -76,7 +76,7 @@ RelativeLayout(
               ),
 ```
 
-### 2、轴对齐关系：`alignLeft`,`alignRight`,`alignTop`,`alignRight`
+### 2、轴对齐关系：`alignLeft`,`alignRight`,`alignTop`,`alignBottom`
 
 <img src="https://github.com/CCY0122/flutter_relative_layout/blob/master/pic/WechatIMG53.png" width=300/>
 
