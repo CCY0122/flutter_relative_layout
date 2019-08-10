@@ -1,8 +1,8 @@
 name: relative_layout
 description: Flutter-RelativeLayout
 version: 0.0.1
-author:
-homepage:
+author: 陈朝勇<671518768@qq.com>
+homepage: https://github.com/CCY0122/flutter_relative_layout
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
