@@ -7,7 +7,7 @@ Flutter上的相对布局RelativeLayout
 ## Usage
 
 依赖：<br/>
-`relative_layout: ^0.0.1`
+`relative_layout: ^0.1.0`
 
 导入：<br/>
 `import 'package:relative_layout/relative_layout.dart';`
