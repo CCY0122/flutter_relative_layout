@@ -11,6 +11,8 @@ enum RelativeOverFlow {
 class RelativeId {
   String id;
   RelativeOverFlow overFlow;
+
+  //默认位置，未指定相对关系的轴将会使用alignment的位置
   Alignment alignment;
 
   String toLeftOf;
